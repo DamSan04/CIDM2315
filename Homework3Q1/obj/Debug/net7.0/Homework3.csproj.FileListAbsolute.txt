@@ -1,0 +1,15 @@
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.csproj.AssemblyReference.cache
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.AssemblyInfoInputs.cache
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.AssemblyInfo.cs
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.csproj.CoreCompileInputs.cache
+D:\CIDM 2315\Homework3\bin\Debug\net7.0\Homework3.exe
+D:\CIDM 2315\Homework3\bin\Debug\net7.0\Homework3.deps.json
+D:\CIDM 2315\Homework3\bin\Debug\net7.0\Homework3.runtimeconfig.json
+D:\CIDM 2315\Homework3\bin\Debug\net7.0\Homework3.dll
+D:\CIDM 2315\Homework3\bin\Debug\net7.0\Homework3.pdb
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.dll
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\refint\Homework3.dll
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.pdb
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\Homework3.genruntimeconfig.cache
+D:\CIDM 2315\Homework3\obj\Debug\net7.0\ref\Homework3.dll
